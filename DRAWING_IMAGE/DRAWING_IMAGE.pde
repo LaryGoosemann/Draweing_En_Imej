@@ -80,8 +80,8 @@ void setup()
 //End Setup
 //
 void draw() { 
-  image( topHalfX, topHalfY, topHalfWidth, topHalfHeight );
-  image( bottomHalfX, bottomHalfY, bottomHalfWidth, bottomHalfHeight );
+  //image( topHalfX, topHalfY, topHalfWidth, topHalfHeight );
+  //image( bottomHalfX, bottomHalfY, bottomHalfWidth, bottomHalfHeight );
 }//End draw
 void keyPressed() {
 }//End keyPressed
